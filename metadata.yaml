@@ -1,0 +1,23 @@
+_repo: The-Radiant-City-b-An-Allegory_70976
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Garratt, Evelyn R.
+    gutenberg_agent_id: '56019'
+    url: http://www.gutenberg.org/2009/agents/56019
+description: ''
+gutenberg_issued: '2023-06-14'
+identifiers:
+  gutenberg: '70976'
+language: en
+pgterms:marc905: 20230607053837garratt
+pgterms:marc906: '1924'
+pgterms:marc907: GB
+publication_note: '  $aUnited Kingdom :$bSmiths, Publishers, Suitall, $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Radiant City : $b An Allegory'
+url: http://www.gutenberg.org/ebooks/70976
