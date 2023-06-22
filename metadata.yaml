@@ -1,11 +1,16 @@
 _repo: The-Radiant-City-b-An-Allegory_70976
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Garratt, Evelyn R.
     gutenberg_agent_id: '56019'
     url: http://www.gutenberg.org/2009/agents/56019
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70976#The-Radiant-City-b-An-Allegory
 gutenberg_issued: '2023-06-14'
 identifiers:
   gutenberg: '70976'
